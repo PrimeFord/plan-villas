@@ -29,9 +29,3 @@ function App() {
 }
 
 export default App;
-{
-  /* <Home /> */
-}
-{
-  /* <Properties/> */
-}
